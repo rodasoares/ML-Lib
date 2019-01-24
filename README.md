@@ -2,6 +2,4 @@
 Short ML examples
 
 Contents:
-  - MNIST Digit Recognizer
-    -Implemented with tf.keras
-    -Kaggle MNIST Chalange: Score around 98%
+  - MNIST Digit Recognizer (Implemented with tf.keras; Kaggle MNIST Chalange: Score around 98%)
